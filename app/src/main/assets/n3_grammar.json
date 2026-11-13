@@ -1,0 +1,298 @@
+[
+  {
+    "lesson_id": 1,
+    "title": "Bài 1",
+    "grammar_list": [
+      { "grammar": "〜つまり", "meaning": "Nói cách khác, tóm lại, tức là" },
+      { "grammar": "〜。ということは〜。", "meaning": "Vậy tức là, nghĩa là" },
+      { "grammar": "〜。というのは〜。", "meaning": "Vì, lý do là" },
+      { "grammar": "〜というと", "meaning": "Nhắc đến... thì..." },
+      { "grammar": "〜ということだ", "meaning": "Nghe nói, tức là" }
+    ]
+  },
+  {
+    "lesson_id": 2,
+    "title": "Bài 2",
+    "grammar_list": [
+      { "grammar": "〜というの〜", "meaning": "Cái gọi là..." },
+      { "grammar": "〜というのは", "meaning": "Có nghĩa là, là..." },
+      { "grammar": "〜というより", "meaning": "Đúng hơn là, thay vì nói..." },
+      { "grammar": "〜。それとも〜。", "meaning": "Tuy vậy, mặc dù thế" },
+      { "grammar": "〜。それなら〜。", "meaning": "Nếu vậy thì..." }
+    ]
+  },
+  {
+    "lesson_id": 3,
+    "title": "Bài 3",
+    "grammar_list": [
+      { "grammar": "〜それと〜", "meaning": "Và còn, thêm nữa" },
+      { "grammar": "だけど", "meaning": "Nhưng mà, tuy nhiên" },
+      { "grammar": "〜ところが", "meaning": "Nhưng mà, trái lại" },
+      { "grammar": "〜その上〜", "meaning": "Thêm vào đó, hơn nữa" },
+      { "grammar": "ところで", "meaning": "Nhân tiện, à mà" }
+    ]
+  },
+  {
+    "lesson_id": 4,
+    "title": "Bài 4",
+    "grammar_list": [
+      { "grammar": "〜。さて〜。", "meaning": "Bây giờ thì, chuyển chủ đề" },
+      { "grammar": "〜。すると〜。", "meaning": "Thế là, ngay sau đó" },
+      { "grammar": "〜。そういえば〜。", "meaning": "Nhắc mới nhớ, nói mới nhớ" },
+      { "grammar": "〜。それが〜。", "meaning": "Nhưng mà, vậy mà" },
+      { "grammar": "もし〜ても", "meaning": "Dù cho... cũng" }
+    ]
+  },
+  {
+    "lesson_id": 5,
+    "title": "Bài 5",
+    "grammar_list": [
+      { "grammar": "もしも〜なら", "meaning": "Nếu như, giả sử" },
+      { "grammar": "〜ば〜のに", "meaning": "Giá mà, ước gì" },
+      { "grammar": "〜ば〜ほど", "meaning": "Càng... càng..." },
+      { "grammar": "〜たとえ〜ても", "meaning": "Cho dù... vẫn" },
+      { "grammar": "〜ないと", "meaning": "Nếu không... thì" }
+    ]
+  },
+  {
+    "lesson_id": 6,
+    "title": "Bài 6",
+    "grammar_list": [
+      { "grammar": "〜としたら", "meaning": "Nếu mà, giả sử" },
+      { "grammar": "もし〜たなら", "meaning": "Nếu đã... thì chắc" },
+      { "grammar": "〜ばよかった", "meaning": "Giá mà đã... (hối tiếc)" },
+      { "grammar": "〜ても", "meaning": "Dù... cũng" },
+      { "grammar": "〜といっても", "meaning": "Dù nói là... nhưng" }
+    ]
+  },
+  {
+    "lesson_id": 7,
+    "title": "Bài 7",
+    "grammar_list": [
+      { "grammar": "〜つもりでした", "meaning": "Định... nhưng (không xảy ra)" },
+      { "grammar": "〜ようとしない", "meaning": "Không chịu, không định" },
+      { "grammar": "〜てごらん", "meaning": "Hãy thử..." },
+      { "grammar": "〜てくれと", "meaning": "Bị bảo, được yêu cầu" },
+      { "grammar": "〜てほしい", "meaning": "Muốn ai đó làm gì" }
+    ]
+  },
+  {
+    "lesson_id": 8,
+    "title": "Bài 8",
+    "grammar_list": [
+      { "grammar": "〜ことだ", "meaning": "Nên (lời khuyên)" },
+      { "grammar": "〜ようにしましょう", "meaning": "Hãy cố gắng..." },
+      { "grammar": "〜といいなあ", "meaning": "Mong là, ước gì" },
+      { "grammar": "〜ようとした", "meaning": "Định làm... nhưng" },
+      { "grammar": "〜つもりだ", "meaning": "Dự định" }
+    ]
+  },
+  {
+    "lesson_id": 9,
+    "title": "Bài 9",
+    "grammar_list": [
+      { "grammar": "〜つもりで", "meaning": "Với ý định, định làm" },
+      { "grammar": "〜くらいは〜", "meaning": "Ít nhất thì, chí ít" },
+      { "grammar": "〜こそ", "meaning": "Chính..., nhấn mạnh" },
+      { "grammar": "〜さ", "meaning": "Danh từ hóa tính từ (mức độ)" },
+      { "grammar": "〜さえ", "meaning": "Ngay cả, thậm chí" }
+    ]
+  },
+  {
+    "lesson_id": 10,
+    "title": "Bài 10",
+    "grammar_list": [
+      { "grammar": "どんなに〜ても", "meaning": "Dù thế nào cũng" },
+      { "grammar": "〜ほど〜", "meaning": "Đến mức, càng... càng..." },
+      { "grammar": "〜どんなに〜ことか", "meaning": "Biết bao, thật là" },
+      { "grammar": "まるで〜よう", "meaning": "Y như, giống như" },
+      { "grammar": "〜おかげで", "meaning": "Nhờ (kết quả tốt)" }
+    ]
+  },
+  {
+    "lesson_id": 11,
+    "title": "Bài 11",
+    "grammar_list": [
+      { "grammar": "〜せいで", "meaning": "Tại, vì (kết quả xấu)" },
+      { "grammar": "〜。だって〜。", "meaning": "Vì... mà, tại vì" },
+      { "grammar": "〜そのために", "meaning": "Vì vậy, do đó" },
+      { "grammar": "〜その結果", "meaning": "Kết quả là" },
+      { "grammar": "ですから〜", "meaning": "Vì thế, do đó" }
+    ]
+  },
+  {
+    "lesson_id": 12,
+    "title": "Bài 12",
+    "grammar_list": [
+      { "grammar": "〜なぜなら", "meaning": "Bởi vì, vì rằng" },
+      { "grammar": "〜ついでに", "meaning": "Nhân tiện, tiện thể" },
+      { "grammar": "〜てからでないと", "meaning": "Nếu không... thì không" },
+      { "grammar": "〜てはじめて", "meaning": "Chỉ khi... mới" },
+      { "grammar": "〜ところだった", "meaning": "Suýt, chút nữa thì" }
+    ]
+  },
+  {
+    "lesson_id": 13,
+    "title": "Bài 13",
+    "grammar_list": [
+      { "grammar": "〜ところ", "meaning": "Đúng lúc, đang lúc" },
+      { "grammar": "〜たて", "meaning": "Vừa mới" },
+      { "grammar": "〜最中に", "meaning": "Đang lúc, giữa lúc" },
+      { "grammar": "〜たびに", "meaning": "Mỗi khi" },
+      { "grammar": "〜たとたん", "meaning": "Ngay khi, vừa... thì" }
+    ]
+  },
+  {
+    "lesson_id": 14,
+    "title": "Bài 14",
+    "grammar_list": [
+      { "grammar": "〜たところ", "meaning": "Sau khi, vừa mới" },
+      { "grammar": "〜うちに", "meaning": "Trong lúc, trong khi" },
+      { "grammar": "すこしも〜ない", "meaning": "Không... chút nào" },
+      { "grammar": "〜せずに", "meaning": "Không làm... mà" },
+      { "grammar": "まったく〜ない", "meaning": "Hoàn toàn không" }
+    ]
+  },
+  {
+    "lesson_id": 15,
+    "title": "Bài 15",
+    "grammar_list": [
+      { "grammar": "〜わけがない", "meaning": "Không đời nào, không thể nào" },
+      { "grammar": "〜わけではない", "meaning": "Không hẳn, không phải là" },
+      { "grammar": "〜わけにはいかない", "meaning": "Không thể (do nghĩa vụ)" },
+      { "grammar": "〜ないことはない", "meaning": "Không phải là không, cũng có thể" },
+      { "grammar": "〜めったに〜ない", "meaning": "Hiếm khi, hầu như không" }
+    ]
+  },
+  {
+    "lesson_id": 16,
+    "title": "Bài 16",
+    "grammar_list": [
+      { "grammar": "〜ないこともない", "meaning": "Không phải là không, cũng có thể" },
+      { "grammar": "〜めったにない", "meaning": "Hiếm có, hiếm khi" },
+      { "grammar": "〜そうもない", "meaning": "Khó mà..., khó... lắm" },
+      { "grammar": "必ずしも〜とは限らない", "meaning": "Không hẳn, chưa chắc" },
+      { "grammar": "決して〜ない", "meaning": "Tuyệt đối không" }
+    ]
+  },
+  {
+    "lesson_id": 17,
+    "title": "Bài 17",
+    "grammar_list": [
+      { "grammar": "〜ずにすんだ", "meaning": "Không cần phải... mà vẫn" },
+      { "grammar": "〜そうにない", "meaning": "Trông không... lắm" },
+      { "grammar": "〜ないで", "meaning": "Không làm..." },
+      { "grammar": "〜ことはない", "meaning": "Không cần phải..." },
+      { "grammar": "〜にかわって", "meaning": "Thay cho, thay mặt" }
+    ]
+  },
+  {
+    "lesson_id": 18,
+    "title": "Bài 18",
+    "grammar_list": [
+      { "grammar": "〜にしては", "meaning": "So với... thì" },
+      { "grammar": "〜にしても", "meaning": "Dù... cũng, ngay cả" },
+      { "grammar": "〜について", "meaning": "Về, liên quan đến" },
+      { "grammar": "〜にとって", "meaning": "Đối với" },
+      { "grammar": "〜によって", "meaning": "Tùy, do, bằng cách" }
+    ]
+  },
+  {
+    "lesson_id": 19,
+    "title": "Bài 19",
+    "grammar_list": [
+      { "grammar": "〜によれば", "meaning": "Theo như" },
+      { "grammar": "〜に対して", "meaning": "Đối với, trái với" },
+      { "grammar": "〜に比べて", "meaning": "So với" },
+      { "grammar": "〜に関して", "meaning": "Liên quan đến" },
+      { "grammar": "〜など", "meaning": "Như là, chẳng hạn" }
+    ]
+  },
+  {
+    "lesson_id": 20,
+    "title": "Bài 20",
+    "grammar_list": [
+      { "grammar": "〜ばかり", "meaning": "Chỉ toàn, suốt" },
+      { "grammar": "〜ばかりか〜も", "meaning": "Không chỉ..., mà còn" },
+      { "grammar": "〜はもちろん〜も", "meaning": "Không chỉ..., mà còn" },
+      { "grammar": "〜とか", "meaning": "Ví dụ như, như là" },
+      { "grammar": "〜において", "meaning": "Tại, trong, ở" }
+    ]
+  },
+  {
+    "lesson_id": 21,
+    "title": "Bài 21",
+    "grammar_list": [
+      { "grammar": "〜から〜にかけて", "meaning": "Từ... đến..." },
+      { "grammar": "〜として", "meaning": "Với tư cách, như là" },
+      { "grammar": "〜かわりに", "meaning": "Thay vì, bù lại" },
+      { "grammar": "〜なんか", "meaning": "Như là, kiểu như" },
+      { "grammar": "〜っぱなし", "meaning": "Để nguyên, suốt" }
+    ]
+  },
+  {
+    "lesson_id": 22,
+    "title": "Bài 22",
+    "grammar_list": [
+      { "grammar": "〜っぽい", "meaning": "Trông như, có vẻ" },
+      { "grammar": "〜きり", "meaning": "Chỉ, kể từ khi... thì không" },
+      { "grammar": "〜ことにしている", "meaning": "Quyết định làm..., thói quen" },
+      { "grammar": "〜はずだ", "meaning": "Chắc chắn là, đáng lẽ" },
+      { "grammar": "〜ふりをする", "meaning": "Giả vờ" }
+    ]
+  },
+  {
+    "lesson_id": 23,
+    "title": "Bài 23",
+    "grammar_list": [
+      { "grammar": "〜べきだ", "meaning": "Nên, phải" },
+      { "grammar": "〜とおり", "meaning": "Như, đúng như" },
+      { "grammar": "〜わけだ", "meaning": "Thảo nào, vì vậy nên" },
+      { "grammar": "〜てみる", "meaning": "Thử làm" },
+      { "grammar": "もしかすると〜かもしれない", "meaning": "Có lẽ, không chừng" }
+    ]
+  },
+  {
+    "lesson_id": 24,
+    "title": "Bài 24",
+    "grammar_list": [
+      { "grammar": "〜っけ？", "meaning": "...nhỉ?, xác nhận lại" },
+      { "grammar": "〜っぽい", "meaning": "Tràn đầy, nhiều, đậm chất" },
+      { "grammar": "〜がち", "meaning": "Thường hay, dễ..." },
+      { "grammar": "〜ように", "meaning": "Để, nhằm, theo như" },
+      { "grammar": "〜ようになった", "meaning": "Trở nên, đã bắt đầu" }
+    ]
+  },
+  {
+    "lesson_id": 25,
+    "title": "Bài 25",
+    "grammar_list": [
+      { "grammar": "〜らしい", "meaning": "Có vẻ như, nghe nói" },
+      { "grammar": "〜られた", "meaning": "Bị, được" },
+      { "grammar": "〜ている", "meaning": "Đang, đã (trạng thái)" },
+      { "grammar": "〜くせに", "meaning": "Mặc dù, thế mà" },
+      { "grammar": "〜わりには", "meaning": "So với..., tuy... mà" }
+    ]
+  },
+  {
+    "lesson_id": 26,
+    "title": "Bài 26",
+    "grammar_list": [
+      { "grammar": "〜とく", "meaning": "Làm sẵn, để sẵn" },
+      { "grammar": "〜ことになっている", "meaning": "Theo quy định, dự kiến" },
+      { "grammar": "〜上げる", "meaning": "Làm xong, hoàn thành" },
+      { "grammar": "〜切れない", "meaning": "Không làm hết, không hết nổi" },
+      { "grammar": "〜かけ", "meaning": "Đang dở, dở dang" }
+    ]
+  },
+  {
+    "lesson_id": 27,
+    "title": "Bài 27",
+    "grammar_list": [
+      { "grammar": "〜だらけ", "meaning": "Toàn là, đầy..." },
+      { "grammar": "〜ことは...が", "meaning": "Cũng có, nhưng..." },
+      { "grammar": "〜んだって", "meaning": "Nghe nói là..." },
+      { "grammar": "〜んだもん", "meaning": "Tại vì... mà..." }
+    ]
+  }
+]

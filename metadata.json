@@ -1,0 +1,6 @@
+{
+  "name": "Haku N3",
+  "description": "Ứng dụng học tiếng Nhật JLPT N3 phong cách Gamification tươi sáng với Lộ trình bài học, ôn tập ngắt quãng Spaced Repetition (SM-2) và thống kê tiến độ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
